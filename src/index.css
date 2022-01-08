@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@900&family=Outfit:wght@300&display=swap");
 
 :root {
-  --font-family-main: "Big Shoulder Display", cursive;
+  --font-family-main: "Big Shoulders Display", cursive;
   --font-family-secondary: "Outfit", sans-serif;
 
   --color-accent: #d5966c;
