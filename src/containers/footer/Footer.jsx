@@ -5,7 +5,7 @@ import { Facebook, Instagram, Twitter } from "../../assets";
 
 const Footer = () => {
   return (
-    <footer>
+    <footer className="art-gal__footer-wrapper">
       <div className="art-gal__footer section__padding">
         <h1 className="art-gal__footer-logo">
           <a href="#">Modern Art Gallery</a>
